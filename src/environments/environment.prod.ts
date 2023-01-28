@@ -1,5 +1,5 @@
 export const environment = {
-    isProductiion : true,
+    isProduction : true,
     firebase : {
         apiKey: "AIzaSyDA9cD78gRCfEWfBvJLeuT1-lGFDtS4VNQ",
         authDomain: "react-slack-clone-9f944.firebaseapp.com",
